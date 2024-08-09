@@ -5,3 +5,5 @@ Bananas
 Carrots
 Oranges
 Cereal
+Strawberries
+Cumcumbers
